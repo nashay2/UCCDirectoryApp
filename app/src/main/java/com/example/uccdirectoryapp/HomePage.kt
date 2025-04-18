@@ -172,7 +172,7 @@ fun EmailHODDialog(
                     value = senderEmail,
                     onValueChange = { senderEmail = it },
                     label = { Text("Your School Email") },
-                    placeholder = { Text("example@stu.ucc.edu.gh") },
+                    placeholder = { Text("example@stu.ucc.edu.jm") },
                     modifier = Modifier.fillMaxWidth()
                 )
 
